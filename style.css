@@ -1,0 +1,151 @@
+header {
+	display: flex;
+	justify-content: space-around;
+}
+
+nav {
+	margin-top: 16px;
+	margin-left: 70px;
+}
+
+div.main {
+	display: flex;
+	justify-content: center;
+	background: #E8E8E8;
+	border-top-style:solid;
+	border-color:#E8E8E8;
+	border-width:10px;
+}
+
+div.main2 {
+	display:flex;
+	justify-content: space-between;
+	background:gainsboro;
+}
+
+div.fcontent {
+	display: flex;
+	justify-content: center;
+}
+
+header {
+	background:teal;
+	color:white;
+}
+
+nav a {
+	margin:3px;
+}
+
+div.services {
+	margin-left:15px;
+}
+
+div.references {
+	margin-left:15px;
+}
+
+div.press {
+	margin-left:15px;
+}
+
+div.fcontent h1 {
+	font-size: 15px;
+	margin-bottom: 0;
+}
+
+div.fcontent p {
+	margin:0;
+}
+
+div.footertitle h1 {
+	font-size: 18px;
+}
+
+div.footer {
+	background:lightgray;
+}
+
+div.content2 h1 {
+	font-size: 24px
+}
+
+div.content2 {
+	border-style: solid;
+	border-color:white;
+	border-width: 2px;
+}
+
+div.content3 {
+	border-style: solid;
+	border-color:white;
+	border-width: 2px;
+}
+p.quote {
+	margin-left: 120px;
+}
+
+div.content1 {
+	background:whitesmoke;
+	width:200px;
+}
+
+div.content1 {
+	border-top-style:ridge;
+	border-bottom-style:ridge;
+	border-left-style:ridge;
+	border-color:white;
+
+}
+div.playstation {
+	border-top-style:ridge;
+	border-right-style:ridge;
+	border-bottom-style:ridge;
+	border-left-style:outset;
+	background:white;
+	border-top-color:white;
+	border-right-color:white;
+	border-bottom-color:white;
+
+}
+
+body {
+	margin:0;
+}
+
+div.content1 p {
+	margin:0;
+}
+
+div.content1 h2 {
+	margin: 0;
+}
+
+button {
+	color:white;
+	background: gray;
+}
+
+div.services img{
+	border-style:groove;
+}
+
+div.team img {
+	border-style:groove;
+}
+
+div.references img {
+	border-style:groove;
+}
+
+div.press img {
+	border-style:groove;
+}
+
+div.content1 h2{
+	margin-left:25px;
+}
+
+div.content1 p {
+	margin-left:25px;
+}
